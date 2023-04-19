@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/130229815/232941945-67d36a16-d451-40f9-9446-5f03f13ea8aa.png)
 # Midnight-Hours
 This game has been made open-source.
 
